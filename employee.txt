@@ -1,4 +1,4 @@
 Name: Priya
 Role: Systems Engineer 
-Skills: Linux, Kubernetes
 Learning: Git and GitOps
+Skills: Linux, Kubernetes
